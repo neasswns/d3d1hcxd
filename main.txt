@@ -2729,7 +2729,7 @@ if game.PlaceId == 2788229376 then
                 local button = script.Parent
 
                 function leftClick()
-                    setclipboard("https://discord.gg/AQbQ7tGWFS")
+                    setclipboard("")
                 end
 
                 button.MouseButton1Click:Connect(leftClick)
