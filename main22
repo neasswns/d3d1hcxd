@@ -1478,3 +1478,4 @@ else
 end
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/diz-zzyy/AgonyDropper/main/scripts/DeleteChairs.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/W9K/roblox-scripts/main/fpsshit.lua"))()
