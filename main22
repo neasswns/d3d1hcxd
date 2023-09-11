@@ -837,6 +837,7 @@ if game.PlaceId == 2788229376 then
                                     if v == plr.UserId then
                                         game:service 'Players'.LocalPlayer.Character.HumanoidRootPart.CFrame =
                                             CFrame.new(561, 35, -65.5)
+                                    end
                                 end
                             end
                         end
