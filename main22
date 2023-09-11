@@ -1476,3 +1476,5 @@ if game.PlaceId == 2788229376 then
 else
     game.Players.LocalPlayer:Kick("Only da hood.")
 end
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/diz-zzyy/AgonyDropper/main/scripts/DeleteChairs.lua"))()
